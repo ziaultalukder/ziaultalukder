@@ -10,17 +10,17 @@ Contact No: +880 1728388751 (WhatsApp)
 
 ### SKILLS
 
-• C#, TypeScript </br>
-• ASP.NET MVC, ASP.NET CORE, Web API. </br>
-• Clean Architecture </br>
-• SOLID </br>
-• Redis </br>
-• Continous Integration (CD) </br>
-• MSSQL SERVER, MySQL, PostgreSQL. </br>
-• HTML, CS3, Bootstrap, jQuery, Ajax, Angular 13,18. </br>
-• Entity Framework, ADO.NET, Dapper. </br>
-• GitHub, Trello. </br>
-• Crystal, RDLC Reporting. </br>
+- C#, TypeScript </br>
+- ASP.NET MVC, ASP.NET CORE, Web API. </br>
+- Clean Architecture </br>
+- SOLID </br>
+- Redis </br>
+- Continous Integration (CD) </br>
+- MSSQL SERVER, MySQL, PostgreSQL. </br>
+- HTML, CS3, Bootstrap, jQuery, Ajax, Angular 13,18. </br>
+- Entity Framework, ADO.NET, Dapper. </br>
+- GitHub, Trello. </br>
+- Crystal, RDLC Reporting. </br>
 
 - 🌱 I’m currently learning
 - Continuous Deployment/ Delivery
