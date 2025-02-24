@@ -15,12 +15,17 @@ Contact No: +880 1728388751 (WhatsApp)
 • Clean Architecture </br>
 • SOLID </br>
 • Redis </br>
-• CI/CD </br>
+• Continous Integration (CD) </br>
 • MSSQL SERVER, MySQL, PostgreSQL. </br>
 • HTML, CS3, Bootstrap, jQuery, Ajax, Angular 13,18. </br>
 • Entity Framework, ADO.NET, Dapper. </br>
 • GitHub, Trello. </br>
 • Crystal, RDLC Reporting. </br>
+
+- 🌱 I’m currently learning
+- Continuous Deployment/ Delivery
+- AWS/AZURE
+- Docker, Kubernetes
 
 <!--
 **ziaultalukder/ziaultalukder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +33,7 @@ Contact No: +880 1728388751 (WhatsApp)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+ ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
