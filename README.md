@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-### Thanks for visiting my profile. Senior Software Engineer at Nec Money Transfer Limited
+### Thanks for visiting my profile. 
+### I am a Senior Software Engineer at Nec Money Transfer Limited
 
 ### - 📫 How to reach me:
 
