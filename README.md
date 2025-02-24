@@ -4,9 +4,9 @@
 
 ### - 📫 How to reach me:
 
-Linkedin: https://www.linkedin.com/in/md-ziaul-talukder-686ab4137/ </br>
-Email: mohammadziaul@gmail.com </br>
-Contact No: +880 1728388751 (WhatsApp)
+- Linkedin: https://www.linkedin.com/in/md-ziaul-talukder-686ab4137/ </br>
+- Email: mohammadziaul@gmail.com </br>
+- Contact No: +880 1728388751 (WhatsApp)
 
 ### SKILLS
 
@@ -15,14 +15,14 @@ Contact No: +880 1728388751 (WhatsApp)
 - Clean Architecture </br>
 - SOLID </br>
 - Redis </br>
-- Continous Integration (CD) </br>
+- Continuous Integration (CD) </br>
 - MSSQL SERVER, MySQL, PostgreSQL. </br>
 - HTML, CS3, Bootstrap, jQuery, Ajax, Angular 13,18. </br>
 - Entity Framework, ADO.NET, Dapper. </br>
 - GitHub, Trello. </br>
 - Crystal, RDLC Reporting. </br>
 
-- 🌱 I’m currently learning
+### 🌱 I’m currently learning
 - Continuous Deployment/ Delivery
 - AWS/AZURE
 - Docker, Kubernetes
