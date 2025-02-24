@@ -3,8 +3,8 @@
 ### Thanks for visiting my profile. Senior Software Engineer at Nec Money Transfer Limited
 
 ### How to reach me.
-Linkedin: https://www.linkedin.com/in/md-ziaul-talukder-686ab4137/
-Email: mohammadziaul@gmail.com
+Linkedin: https://www.linkedin.com/in/md-ziaul-talukder-686ab4137/ </br>
+Email: mohammadziaul@gmail.com </br>
 Contact No: +880 1728388751 (WhatsApp)
 
 ### SKILLS
