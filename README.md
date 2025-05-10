@@ -23,7 +23,7 @@
 - GitHub, Trello. </br>
 - Crystal, RDLC Reporting. </br>
 
-### 🌱 I’m currently learning
+### 🌱 continuous learning
 - Continuous Deployment/ Delivery
 - AWS/AZURE
 - Docker, Kubernetes
